@@ -1,0 +1,7 @@
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Lab06\Lab06\obj\Debug\Lab06.csprojResolveAssemblyReference.cache
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Lab06\Lab06\obj\Debug\Lab06.pdb
